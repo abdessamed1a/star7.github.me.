@@ -1,0 +1,16 @@
+BandcampBridge
+CryptomeBridge
+DansTonChatBridge
+DuckDuckGoBridge
+FacebookBridge
+FlickrExploreBridge
+GooglePlusPostBridge
+GoogleSearchBridge
+IdenticaBridge
+InstagramBridge
+OpenClassroomsBridge
+PinterestBridge
+ScmbBridge
+TwitterBridge
+WikipediaBridge
+YoutubeBridge
