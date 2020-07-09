@@ -29,7 +29,7 @@
    </head>
    <body>
 <?php include'html-encoder.php';?>       
-      <iframe id="preview-grame" src="https://website.com/" name="preview-grame" frameborder="0" noresize="noresize">
+      <iframe id="preview-grame" src="https://think.taylorandfrancis.com/" name="preview-grame" frameborder="0" noresize="noresize">
       </iframe>
    </body>
 </html>
